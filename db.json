@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,40 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +53,100 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 1
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 2
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 3
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 4
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 5
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 6
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 7
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 8
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 9
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 10
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 11
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 12
+    },
+    {
+      "data": {
+        "name": "Adam",
+        "email": "adam@gmail.com"
+      },
+      "id": 13
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
